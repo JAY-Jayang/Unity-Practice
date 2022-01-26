@@ -26,7 +26,7 @@ public class Bullet : MonoBehaviour
         }    
     }
 
-    // Update is called once per frame
+    // Update is called once per frame dfsdf
     void Update()
     {
         
